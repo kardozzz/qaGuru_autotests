@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class SearchTests {
     static {
-        Configuration.pageLoadStrategy = "eagersssss!";
+        Configuration.pageLoadStrategy = "eager!!!";
     }
     @Test
     void successfulSearchTest() {
